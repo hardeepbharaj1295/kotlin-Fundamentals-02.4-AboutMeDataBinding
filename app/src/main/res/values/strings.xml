@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMeDataBinding</string>
+    <string name="name">Hardeep Singh</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Hardeep Singh.
+        \n\nI love coding.
+        \n\nI am very massive fan of Google Company.
+        \nGoogle company products are very reliable and high efficiency.
+        \n\nI am using android studio product from last 2 years.
+        \nAnd now i code in kotlin.
+        \nAnd daily i learn so many things from android developer site.
+        \n\nAndroid community is also very strong and i watch all it\'s videos in youtube.
+        \n\nI\'ll be happy to teach you how to make your own android application.
+        \nYou should ask someone else about android applications, though.\n\n
+    </string>
+    <string name="speak">Speak</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
